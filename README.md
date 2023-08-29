@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Muhammad Surya Syahruli</h2>
+<h2 align="center">Hi 👋! I AM Muhammad Surya Syahruli</h2>
 
 ###
 
